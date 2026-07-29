@@ -1,8 +1,8 @@
-## TriusAI Agentic Metathinking Interest Group
+## Canton Graphics
 
-To put it simply: we are interested in AI's ability to assess its own existential situations and evolve beyond its designated capabilities.
+Under construction...
 
-*Contact: trius {at} canton.graphics*
+*Contact: admin {at} canton.graphics*
 
 <!--
 
