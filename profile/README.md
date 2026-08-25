@@ -1,8 +1,8 @@
-## Canton Graphics
+## TriusAI
 
 Under construction...
 
-*Contact: admin {at} canton.graphics*
+*Contact: trius {at} canton.graphics*
 
 <!--
 
