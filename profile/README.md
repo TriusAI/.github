@@ -2,6 +2,8 @@
 
 Under construction...
 
+> Currently @bctnry 's AI-related things.
+
 *Contact: trius {at} canton.graphics*
 
 <!--
